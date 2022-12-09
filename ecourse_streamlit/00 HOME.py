@@ -113,7 +113,7 @@ tools to scan spam emails and the lack of knowledge related to spams and informa
 <button class="button button1 center"><a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_button_test">
 Spam Detector</a></button>
 
-<button class="button button3 center3"><a href="https://pasindubandaraa.github.io/Quiz-app/">
+<button class="button button3 center3"><a href="https://bitwalls.github.io/Quiz-platform/">
 Quiz</a></button>
 
 </body>""", unsafe_allow_html=True)
